@@ -1,0 +1,172 @@
+body { 
+    background: url(../style/images/zaur-giyasov-1272816-unsplash.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+}
+
+body {
+    font-family: 'Optima', 'Candara', 'Arial', sans-serif;
+}
+
+.nav {
+    font-size: 1.5em;
+}
+
+a:hover {
+    color: gold;
+}
+
+#elenaHenry {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top: 50%;
+    color: white;
+    font-size: 5em;
+}
+
+#gameBox {
+    position: absolute;
+    width: 100%;
+    bottom: 20%;
+    color: white;
+    text-align: center;
+}
+
+#timer {
+    font-size: 2em;
+    margin: 20px;
+    color: white;
+    position: absolute;
+    left: 20%;
+    bottom: 20%;
+}
+
+#score {
+    font-size: 2em;
+    margin: 20px;
+    color: white;
+    position: absolute;
+    right: 20%;
+    bottom: 20%;
+}
+
+#gameInstructions {
+    font-size: 1.25em;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    padding: 20px;
+    color: white;
+    display: flex;
+    vertical-align: middle;
+    margin: 0;
+}
+
+#creditBadge {
+    position: absolute;
+    right: 50;
+}
+
+#copyrightBadge {
+    position: absolute;
+    right: 50%;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    margin-right: 30px;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.photo {
+    width: 120px;
+    float: left;
+    margin-right: 20px;
+}
+
+.thumbnail {
+    width: 40px;
+    margin: 20px;
+}
+
+#techContainer {
+    width: 100%;
+    justify-content: space-between;
+    margin: auto;
+}
+
+.bodytext {
+    background-color: white;
+    padding: 20px;
+    position: absolute;
+    top: 30%;
+    width: 65%;
+    margin: auto;
+}
+
+.projectCard {
+    width: 325px;
+    height: 250px;
+    background-size: cover;
+    background-position: center;
+    border: 10px solid black;
+    position: relative;
+    top: 100px;
+    margin: 10px;
+}
+
+.banner {
+    background: black;
+    width: 100%;
+    position: relative;
+    top: 150px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 1.5em;
+}
+
+#wordGuessGameCard {
+    background-image: url("../style/images/Screen\ Shot\ 2019-01-31\ at\ 1.14.19\ PM.png");
+}
+
+#sunnyWeekendCard {
+    background-image: url("../style/images/Screen\ Shot\ 2019-01-31\ at\ 1.28.22\ PM.png");
+}
+
+#liriBotCard {
+    background-image: url("../style/images/Screen\ Shot\ 2019-01-31\ at\ 1.33.05\ PM.png");
+}
+
+#cutePetsCard {
+    background-image: url("../style/images/Screen\ Shot\ 2019-01-31\ at\ 1.42.55\ PM.png");
+}
+
+#crystalCollectorCard {
+    background-image: url("../style/images/Screen\ Shot\ 2019-01-31\ at\ 1.48.55\ PM.png");
+}
+
+#iDoCard {
+    background-image: url("../style/images/Screen\ Shot\ 2019-01-31\ at\ 1.54.11\ PM.png");
+}
+
+.aboutLink {
+    color: teal;
+    margin: 0;
+}
